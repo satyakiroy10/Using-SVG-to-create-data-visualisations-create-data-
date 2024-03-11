@@ -1,0 +1,20 @@
+  #blue_bar_chart {
+    fill: blue;
+    stroke: black;
+  }
+  
+  #red_bar_chart {
+    fill: red;
+    stroke: black;
+  }
+
+  #paths {
+    fill: none;
+  }
+
+  svg line, path {
+    stroke: black;
+    stroke-width: 2px;
+  }
+
+  
